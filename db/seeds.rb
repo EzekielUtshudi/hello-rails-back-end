@@ -8,9 +8,9 @@
 Message.create!(
   [
     {text: "Hello there "},
-    {text: "Habari ya alasiri"},
+    {text: "Hello world"},
     {text: "Bonjour a vous"},
     {text: "Holla amigo"},
-    {text: "Haaya Tuonane kesho"}
+    {text: "Good day to you all"}
   ]
 );
