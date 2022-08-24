@@ -2,7 +2,9 @@
 # Hello-Rails
 This is a simple project just to learn how to build an only api rails app.
 
+
 A simple hello world app. This is just a work around. In order to learn more about how to build a react and rails appThis app is the backend.
+
 
 ## Built With
 
@@ -55,7 +57,5 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
